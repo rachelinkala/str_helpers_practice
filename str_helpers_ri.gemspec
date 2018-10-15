@@ -6,7 +6,7 @@ require "str_helpers_ri/version"
 Gem::Specification.new do |spec|
   spec.name          = "str_helpers_ri"
   spec.version       = StrHelpersRi::VERSION
-  spec.authors       = ["TODO: Write your name"]
+  spec.authors       = ["Rachel Inkala"]
   spec.email         = ["rachelinkala@gmail.com"]
 
   spec.summary       = "String Helper"
